@@ -21,7 +21,22 @@
 - [Troubleshooting](#troubleshooting-common-issues)
 - [Learning Outcomes](#learning-outcomes)
 
+---
 
+## Learning Outcomes
+
+After completing this lab, you will understand:
+
+1. **Enterprise Network Architecture**: How modern networks are structured
+2. **Security Perimeter Design**: Implementing defense-in-depth strategies
+3. **Identity Management**: Centralized authentication and authorization
+4. **Service Deployment**: Hosting services in a secure environment
+5. **Administrative Practices**: Proper management of IT infrastructure
+6. **Network Security**: Firewall configuration and access control
+
+This lab provides a foundation for understanding enterprise IT security concepts in a hands-on environment.
+
+---
 ### Key Concepts Implemented
 
 - **Network Segmentation**: Isolating internal network from internet
@@ -52,3 +67,15 @@
 - 100GB free disk space
 
 ---
+
+## Contributing
+
+Feel free to submit issues and enhancement requests! This lab can be extended with additional security components like:
+
+- Certificate Authority (CA) services
+- Network monitoring tools
+- Additional web applications
+- Database servers
+- Load balancers
+
+**⚠️ Disclaimer**: This lab is for educational purposes only. Do not use these configurations in production environments without proper security hardening.
